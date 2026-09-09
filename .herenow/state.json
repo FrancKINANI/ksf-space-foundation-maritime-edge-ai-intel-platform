@@ -1,0 +1,12 @@
+{
+  "publishes": {
+    "rustic-reef-6en6": {
+      "siteUrl": "https://rustic-reef-6en6.here.now/",
+      "versionId": "01M1MGEDW0810G28SNM42WBW0E",
+      "path": "/home/julius/lab/maritime-edge-ai-intel-platform/site",
+      "claimToken": "rXuJJedOzlx06Rln",
+      "claimUrl": "https://here.now/c/rXuJJedOzlx06Rln",
+      "expiresAt": "2026-09-04T20:47:55.776Z"
+    }
+  }
+}

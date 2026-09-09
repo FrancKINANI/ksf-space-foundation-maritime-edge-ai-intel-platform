@@ -55,7 +55,7 @@ subprocess.check_call(
 _GIT_PATH: str | None = shutil.which("git")
 if not Path("maritime-intelligence-platform").exists():
     subprocess.check_call(
-        [_GIT_PATH, "clone", "https://github.com/FrancKINANI/maritime-edge-ai-intel-platform.git"]
+        [_GIT_PATH, "clone", "https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform.git"]
     )
     os.chdir("maritime-intelligence-platform")
 else:

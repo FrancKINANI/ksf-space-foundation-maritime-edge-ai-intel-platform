@@ -40,8 +40,8 @@ Optional but recommended: **Nginx** or **Caddy** as a reverse proxy for TLS.
 ## 2. Getting the code
 
 ```bash
-git clone https://github.com/FrancKINANI/maritime-edge-ai-intel-platform.git
-cd maritime-edge-ai-intel-platform
+git clone https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform.git
+cd ksf-space-foundation-maritime-edge-ai-intel-platform
 ```
 
 ### Model weights

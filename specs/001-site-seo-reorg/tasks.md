@@ -39,9 +39,9 @@
 - [x] T004 [P] Optimize `ksf.space-logo-high.png` (435×420, 140 KB) → same filename into `site/assets/img/brand/`, resized to ≤220px, PNG with alpha, ≤25 KB
 - [x] T005 [P] Recompress 3 SAR JPEGs (`…-sar-{single-vessel,vessel-detection,multi-vessel-detection}.jpg`, 640×640) at q78–82 into `site/assets/img/screenshots/` (same names)
 - [x] T006 [P] Move the 6 `.svg` diagrams AND their 6 `.drawio` partners from `site/images/` to `site/assets/img/diagrams/` (names unchanged)
-- [x] T007 [P] Move `site/images/rapport_stage.pdf` → `site/assets/doc/rapport_stage.pdf`
+- [x] T007 [P] Move `site/images/rapport_stage.pdf` → `site/assets/doc/ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf`
 - [x] T008 [P] Create `site/robots.txt` (User-agent: * / Allow: / + absolute Sitemap URL)
-- [x] T009 [P] Create `site/sitemap.xml` listing the page + `<image:image>` entries for the 13 content images (final paths from T003–T006), all under the canonical base URL `https://franckinani.github.io/maritime-edge-ai-intel-platform/`
+- [x] T009 [P] Create `site/sitemap.xml` listing the page + `<image:image>` entries for the 13 content images (final paths from T003–T006), all under the canonical base URL `https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/`
 
 **Checkpoint**: `site/assets/` contains the complete, final, optimized asset set; old `site/images/` still intact.
 

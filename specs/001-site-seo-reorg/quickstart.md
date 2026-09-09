@@ -48,7 +48,7 @@ python3 -m http.server 8000 --directory site
 ```
 
 Expected outcome: page renders with all 13 images + logo visible in their
-captioned figures; report button downloads `assets/doc/rapport_stage.pdf`;
+captioned figures; report button downloads `assets/doc/ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf`;
 navigation smooth-scrolls; no console errors; the layout does not jump while
 images load.
 

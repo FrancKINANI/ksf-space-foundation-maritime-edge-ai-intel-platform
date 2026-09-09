@@ -19,7 +19,7 @@ public disclosure.
 ### How to report
 
 - Open a **private advisory** on GitHub:
-  https://github.com/FrancKINANI/maritime-edge-ai-intel-platform/security/advisories/new
+  https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform/security/advisories/new
 - Or send an email to **contact@ksf-space.org** with the subject
   `[SECURITY] Maritime Intelligence Platform`.
 

@@ -38,10 +38,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/FrancKINANI/maritime-edge-ai-intel-platform"
-Documentation = "https://github.com/FrancKINANI/maritime-edge-ai-intel-platform#readme"
-Repository = "https://github.com/FrancKINANI/maritime-edge-ai-intel-platform"
-Issues = "https://github.com/FrancKINANI/maritime-edge-ai-intel-platform/issues"
+Homepage = "https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform"
+Documentation = "https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform#readme"
+Repository = "https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform"
+Issues = "https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform/issues"
 
 [project.optional-dependencies]
 research = [

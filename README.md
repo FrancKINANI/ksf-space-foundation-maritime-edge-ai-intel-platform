@@ -1,6 +1,6 @@
 # Maritime Edge AI Intelligence Platform (Phase II)
 
-[![CI](https://github.com/FrancKINANI/maritime-edge-ai-intel-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/FrancKINANI/maritime-edge-ai-intel-platform/actions/workflows/ci.yml)
+[![CI](https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![Docker](https://img.shields.io/badge/Docker-20.10%2B-2496ED.svg)](https://docker.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -109,8 +109,8 @@ A high-performance microservice platform for **real-time maritime vessel detecti
 
 ```bash
 # 1. Clone
-git clone https://github.com/FrancKINANI/maritime-edge-ai-intel-platform.git
-cd maritime-edge-ai-intel-platform
+git clone https://github.com/FrancKINANI/ksf-space-foundation-maritime-edge-ai-intel-platform.git
+cd ksf-space-foundation-maritime-edge-ai-intel-platform
 
 # 2. Configure environment
 cp .env.example .env

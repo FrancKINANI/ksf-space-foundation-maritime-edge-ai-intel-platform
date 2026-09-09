@@ -79,7 +79,7 @@ double-click and when deployed (no server-side includes).
 | sar-multi-vessel-detection.jpg | JPEG | 640×640 | 32 KB | recompress → ~≤25 KB |
 | 6 × *.svg diagrams | SVG | — | ~80 KB total | unchanged, moved |
 | 6 × *.drawio sources | XML | — | ~92 KB total | unchanged, moved |
-| rapport_stage.pdf | PDF | — | 580 KB | unchanged, moved |
+| ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf | PDF | — | 580 KB | unchanged, moved |
 
 Target total raster weight ≈ 700 KB (from 2.14 MB) — exceeds the 60% goal.
 
@@ -145,7 +145,7 @@ site/
         └── brand/
             └── ksf.space-logo-high.png   # sanctioned naming exception, downsized
     └── doc/
-        └── rapport_stage.pdf # internship report (download target unchanged)
+        └── ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf # internship report (download target unchanged)
 ```
 
 **Structure Decision**: `assets/` with `css|js|img|doc` mirrors standard static

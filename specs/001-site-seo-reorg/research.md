@@ -115,7 +115,7 @@ the page plus `<image:image>` entries for the 13 content images. Add canonical,
 og:url/og:locale/og:image, twitter summary_large_image, and JSON-LD @graph with
 WebSite, Organization (KSF Space Foundation), and ImageObject entries for the
 key visuals. The absolute base URL is centralized in one constant
-(`https://franckinani.github.io/maritime-edge-ai-intel-platform/`) reused by
+(`https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/`) reused by
 canonical/og/sitemap, and confirmed against the live Pages URL before
 finalizing.
 

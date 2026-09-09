@@ -77,7 +77,7 @@ where it clearly improves maintainability, SEO, or readability.
   zero configuration.
 - The GitHub Pages workflow deploys the `site/` folder; changes outside
   `site/` MUST NOT be required for the site to function.
-- `images/rapport_stage.pdf` is the internship report and MUST remain
+- `assets/doc/ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf` is the internship report and MUST remain
   downloadable from the existing button.
 - The site README documents structure, image conventions, and draw.io
   workflow; any structural or naming change MUST be reflected there in the

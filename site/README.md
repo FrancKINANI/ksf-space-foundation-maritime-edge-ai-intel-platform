@@ -10,7 +10,7 @@ to **GitHub Pages** with zero build step: plain HTML + CSS + vanilla JavaScript.
    python3 -m http.server 8000 --directory site
    ```
 2. Add new images to `assets/img/` following the [naming convention](#image-naming-convention)
-3. Replace the report PDF at `assets/doc/rapport_stage.pdf`
+3. Replace the report PDF at `assets/doc/ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf`
 4. Push to GitHub — the GitHub Actions workflow deploys automatically
 
 ## GitHub Pages Deployment
@@ -20,7 +20,7 @@ Automatic deployment via `.github/workflows/deploy-pages.yml`:
 1. Push the `site/` folder to your `main` or `master` branch
 2. Repo → **Settings → Pages** → Source: **GitHub Actions**
 3. The workflow deploys on every push touching `site/**`
-4. Live at: `https://franckinani.github.io/maritime-edge-ai-intel-platform/`
+4. Live at: `https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/`
 
 ### SEO / crawler files
 
@@ -52,7 +52,7 @@ site/
     │   ├── screenshots/    # SAR + dashboard + docker captures (optimized JPEG)
     │   └── brand/          # KSF Space logo (only naming-convention exception)
     └── doc/
-        └── rapport_stage.pdf   # Downloadable internship report
+        └── ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf   # Downloadable internship report
 ```
 
 Keep the CSS split load order `base → layout → components → responsive`:
@@ -124,7 +124,7 @@ Report (`assets/doc/`):
 
 | File | Description |
 |------|-------------|
-| `rapport_stage.pdf` | Downloadable internship report |
+| `ksf-space-foundation-maritime-edge-ai-intel-platform-report.pdf` | Downloadable internship report |
 
 ## Adding a New Image
 

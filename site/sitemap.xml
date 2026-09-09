@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/diagrams/ksf-space-maritime-edge-ai-intel-platform-architecture.svg</image:loc>
+      <image:title>Maritime Edge AI Intelligence Platform system architecture with 6 microservices</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/diagrams/ksf-space-maritime-edge-ai-intel-platform-data-flow.svg</image:loc>
+      <image:title>End-to-end data flow pipeline of the maritime edge AI platform</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/diagrams/ksf-space-maritime-edge-ai-intel-platform-zone-classification.svg</image:loc>
+      <image:title>Maritime zone classification Z1 territorial waters Z2 EEZ Z3 high seas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/diagrams/ksf-space-maritime-edge-ai-intel-platform-pipeline-comparison.svg</image:loc>
+      <image:title>Comparison of five SAR preprocessing pipelines A through E</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/diagrams/ksf-space-maritime-edge-ai-intel-platform-tle-fallback.svg</image:loc>
+      <image:title>TLE data source fallback chain SatNOGS to Celestrak to stale cache</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/diagrams/ksf-space-maritime-edge-ai-intel-platform-ci-pipeline.svg</image:loc>
+      <image:title>GitHub Actions CI/CD pipeline with four job stages</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/screenshots/ksf-space-maritime-edge-ai-intel-platform-docker-monitoring.jpg</image:loc>
+      <image:title>Docker container monitoring showing all seven platform services healthy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/screenshots/ksf-space-maritime-edge-ai-intel-platform-dashboard-upload.jpg</image:loc>
+      <image:title>Ground dashboard upload mode with file uploader and pipeline selector</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/screenshots/ksf-space-maritime-edge-ai-intel-platform-dashboard-satellite-query.jpg</image:loc>
+      <image:title>Ground dashboard satellite query mode showing SGP4 position results</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/screenshots/ksf-space-maritime-edge-ai-intel-platform-dashboard-monitoring-events.jpg</image:loc>
+      <image:title>Ground dashboard continuous monitoring mode with filtered event list</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/screenshots/ksf-space-maritime-edge-ai-intel-platform-sar-single-vessel.jpg</image:loc>
+      <image:title>Raw Sentinel-1 SAR scene showing a single vessel on the ocean surface</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/screenshots/ksf-space-maritime-edge-ai-intel-platform-sar-multi-vessel-detection.jpg</image:loc>
+      <image:title>SAR multi-vessel detection with vessels absent from AIS broadcasts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://franckinani.github.io/ksf-space-foundation-maritime-edge-ai-intel-platform/assets/img/screenshots/ksf-space-maritime-edge-ai-intel-platform-sar-vessel-detection.jpg</image:loc>
+      <image:title>YOLOv8 vessel detection overlay on a Sentinel-1 SAR tile</image:title>
+    </image:image>
+  </url>
+</urlset>
